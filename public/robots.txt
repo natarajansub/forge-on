@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://www.forge-on.pages.dev/sitemap.xml
